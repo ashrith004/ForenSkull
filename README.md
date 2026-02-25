@@ -1,4 +1,3 @@
-
 # 🦴 ForenSkull — Forensic Skull Reconstruction & Age Estimation
 
 A lightweight end-to-end demo system for forensic skull analysis.
